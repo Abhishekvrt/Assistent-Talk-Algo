@@ -599,3 +599,27 @@ question(
         ),
     ),
 );
+
+question(
+    'who is meenakshi',
+    'meenakshi kaun hai',
+    reply(
+        'She is our ibm teacher and our H.o.d. too. one thing about her she is very supportive to her students',
+    ),
+);
+
+question(
+    'starex university',
+    'Where is starex university',
+    reply(
+        'Starex university is engineer college where Abhishek and Nikhil two very bright students studying',
+    ),
+);
+
+// question(
+//     '',
+//     reply(
+//         '',
+//     ),
+// );
+
